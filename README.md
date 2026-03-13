@@ -1,4 +1,5 @@
-GROUP NO -D2
+## GROUP NO -D2
+
 TEAM MEMBERS:
 Badam Shanmukha Venkata Vinayak - CB.SC.U4AIE24307
 Potluri Aditya Pavan - CB.SC.U4AIE24307
@@ -57,7 +58,7 @@ The system produces:
 
 
 
-#REQUIREMNET
+## REQUIREMNET
 
 TIME TAKEN-<10 sec
 PLATFORM-LAPTOP
