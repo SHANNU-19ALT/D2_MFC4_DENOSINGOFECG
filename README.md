@@ -5,7 +5,7 @@ Badam Shanmukha Venkata Vinayak - CB.SC.U4AIE24307
 Potluri Aditya Pavan - CB.SC.U4AIE24307
 Paper link = https://www.mdpi.com/2076-3417/11/4/1591
 Project outine - ECG SIGNAL DENOISING USING BASIS PURSUIT
-
+ 
 
 # ECG Signal Denoising using Basis Pursuit
 
@@ -60,7 +60,9 @@ The system produces:
 
 ## REQUIREMNET
 
-TIME TAKEN-<10 sec
-PLATFORM-LAPTOP
-MATLAB
-HARDWARE-CPU 	
+- TIME TAKEN-<10 sec
+- PLATFORM-LAPTOP
+- MATLAB
+- HARDWARE-CPU
+- WFDB TOOLBOX
+   
